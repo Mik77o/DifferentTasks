@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# DifferentTasks
-=======
 # Różne zadania w C# - treści poniżej
 
 
@@ -10,11 +7,11 @@ odwrócić, aby przekształcić liczbę całkowitą A na liczbę całkowitą
 B.
 
 - Wejście
-Na wejściu funkcja powinna przyjąć dwa argumenty będące liczbami
+:Na wejściu funkcja powinna przyjąć dwa argumenty będące liczbami
 całkowitymi.
 
 - Wyjście
-Na wyjściu funkcja powinna zwrócić liczbę całkowitą informującą o
+:Na wyjściu funkcja powinna zwrócić liczbę całkowitą informującą o
 liczbie bitów, które należy odwrócić w celu wykonania
 przekształcenia.
 
@@ -27,11 +24,11 @@ Jeśli "skompresowany" łańcuch znaków nie jest mniejszy od
 wyjściowego, metoda powinna zwracać pierwotny łańcuch.
 
 - Wejście
-Metoda powinna przyjmować jeden argument, będący łańcuchem znaków.
+:Metoda powinna przyjmować jeden argument, będący łańcuchem znaków.
 Łańcuch powinien składać się z liter alfabetu angielskiego.
 
 - Wyjście
-Na wyjściu ma pojawić się skompresowany ciąg znaków. Jeśli
+:Na wyjściu ma pojawić się skompresowany ciąg znaków. Jeśli
 skompresowany łańcuch jest tej samej długości co oryginalny,
 metoda powinna zwrócić pierwotny łańcuch.
 
@@ -41,12 +38,12 @@ Napisz program, który sprawdzi, które spośród danych liczb są
 liczbami pierwszymi.
 
 - Wejście
-W pierwszym wierszu danych znajduje się liczba naturalna N, która jest
+:W pierwszym wierszu danych znajduje się liczba naturalna N, która jest
 liczbą testów, gdzie N<100. w kolejnych liniach N liczb z
 przedziału 1..1000 .
 
 - Wyjście
-Dla każdej liczby słowo TAK, jeśli liczba ta jest pierwsza, słowo:
+:Dla każdej liczby słowo TAK, jeśli liczba ta jest pierwsza, słowo:
 NIE, w przeciwnym wypadku.
 
 
@@ -56,10 +53,10 @@ Napisz program, który wyświetli histogram dla liczb podanych na
 wejściu.
 
 - Wejście
-Wiersze z liczbami całkowitymi z przedziału <-10, 10>.
+:Wiersze z liczbami całkowitymi z przedziału <-10, 10>.
 
 - Wyjście
-21 wierszy, każdy o stałej długości 37 znaków. Każdy wiersz składa
+:21 wierszy, każdy o stałej długości 37 znaków. Każdy wiersz składa
 się z :
 • Kolejnych liczb z przedziału <-10, 10> zapisanych na 4
 polach.
@@ -79,16 +76,16 @@ Napisz program, który dla zadanej liczby n, wypisze ostatnią
 niezerową cyfrę liczby n!
 
 - Wejście
-W pierwszym wierszu znajduje się liczba testów t (1<=t<=100), w
+:W pierwszym wierszu znajduje się liczba testów t (1<=t<=100), w
 każdej następnej linijce znajduje się dokładnie jedna liczba
 całkowita n (1<=n<=100).
 
 - Wyjście
-Dla każdego n należy wyświetlić ostatnią niezerową cyfrę liczby
+:Dla każdego n należy wyświetlić ostatnią niezerową cyfrę liczby
 n!.
 Przykład
 Wejście:
 41358
 Wyjście:
 1622
->>>>>>> Zadania w C#
+
